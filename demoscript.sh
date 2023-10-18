@@ -16,3 +16,21 @@ echo " multiplication number"
 echo "---------"
 echo "addition number"
 
+
+
+
+
+
+
+
+
+
+echo "--------------------"
+echo " subtraction"
+
+
+
+
+
+
+
