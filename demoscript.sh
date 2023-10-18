@@ -16,3 +16,10 @@ echo " multiplication number"
 echo "---------"
 echo "addition number"
 
+
+echo " welcome to bellary"
+
+
+
+
+
