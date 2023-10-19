@@ -1,0 +1,2 @@
+echo " Basavaraj devops Training"
+
